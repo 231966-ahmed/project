@@ -1,4 +1,7 @@
 Hello 
 Ahmed Zaidi 
 Bye Bye
+<<<<<<< HEAD
 This line was added locally
+This line was added locally.
+This line was added directly on GitHub
